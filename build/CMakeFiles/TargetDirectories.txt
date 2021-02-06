@@ -1,0 +1,3 @@
+/home/pzb/codes/http-parser/build/CMakeFiles/rebuild_cache.dir
+/home/pzb/codes/http-parser/build/CMakeFiles/test.dir
+/home/pzb/codes/http-parser/build/CMakeFiles/edit_cache.dir
